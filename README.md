@@ -15,7 +15,7 @@ You can watch the tutorial for this app.
 
 # 기능
 - 비디오업로드
-- 구독버튼
+- 구독버튼(구독한 유튜버꺼만 볼 수도 있음)
 - 댓글, 대댓글
 - 좋아요싫어요 버튼
 
