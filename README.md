@@ -21,4 +21,5 @@ You can watch the tutorial for this app.
 - 좋아요싫어요 버튼
 -> 클릭시 기능들 0531
 
-
+# 사용기술
+ReactJS, NodeJS, MongoDB
