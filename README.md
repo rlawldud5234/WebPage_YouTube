@@ -11,7 +11,6 @@ To use this application,
 
 
 If you have problem, feel free to ask me ^^ 
-
 You can watch the tutorial for this app.
 
 # 기능
